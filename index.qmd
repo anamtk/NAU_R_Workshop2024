@@ -1,11 +1,39 @@
 ---
-title: "NAU_R_Workshop2024"
+title: "Introduction to R for Ecologists - NAU 2024"
 ---
 
-This is a Quarto website.
+December 2024 - April 2025
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Instructor: Dr. Ana Miller-ter Kuile
 
-```{r}
-1 + 1
-```
+## General Information
+
+**Who**: This course is aimed at undergraduate and graduate students and researchers who work with ecological data.
+
+**Where**: This course will take place during meeting hours for the NAU RaMP training program.
+
+**When**: This workshop will take place in roughly two sessions per month starting in December 2024 and ending in April 2025.
+
+**Requirements**: Participants must have access to a computer with a Mac, Linux, or Windows operating system. In addition, please install the specific software packages listed in the setup tab above.
+
+**Accessibility**: We are dedicated to providing a positive and accessible learning environment for all learners. Please email the instructor prior to the workshop if you require any accomodations or if there is anything we can do to help make the workshop accessible to you.
+
+**Contact**: You can email ana.miller-ter-kuile\@nau.edu for more information.
+
+## Code of conduct
+
+We will be abiding by a code of conduct for this workshop based on the code of [R-Ladies](https://rladies.org/code-of-conduct/).
+
+Please respect fellow learners, instructors, and helpers.
+
+## Surveys
+
+Please be sure to complete these surveys before and after the workshop. It is okay if you know nothing about R as you answer these - introducing you to R is the point of this workshop series!
+
+[Pre-workshop survey](https://forms.gle/VnFLVtXZuaFNdW1D7)
+
+Post-workshop survey available in April
+
+## Workshop Recordings
+
+Workshop recordings will be available after the workshops take place for NAU RaMP scholars.

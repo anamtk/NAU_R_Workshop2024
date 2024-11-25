@@ -3,12 +3,15 @@ project:
   output-dir: docs
 
 website:
-  title: "NAU_R_Workshop2024"
+  title: "Introduction to R for Ecologists - NAU 2024"
   navbar:
     left:
       - href: index.qmd
         text: Home
+      - schedule.qmd
+      - setup.qmd
       - about.qmd
+      - learn.qmd
 
 format:
   html:

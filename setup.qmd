@@ -1,0 +1,17 @@
+---
+title: "Setup"
+---
+
+***Before the workshop***, please make sure you have completed the following setup steps:
+
+### Download/Update R and RStudio
+
+You will need a current version of R and RStudio for this workshop. You can find [instructions for installing or updating these programs here](https://carpentries-incubator.github.io/R-ecology-lesson-alternative/index.html).
+
+You are only required to follow the instructions under the **Install R and RStudio** or **Update R and RStudio** sections. We will go over the remainder together during workshop #1.
+
+### Bring your own dataset(s) to Workshops 6 & 9
+
+These workshops are taking place February 11 and April 15.
+
+Please bring one or more datasets you hope to incoroprate into your own research for Workshops 6 & 9. We will be using the tools we've learned in importing and cleaning data in R as well as visualizing data in R with datasets you have collected during your RaMP training. Instructors will be available to answer questions and help troubleshoot solutions. We will be working together to try common data import and cleaning steps. This is a great time to troubleshoot errors too because it's likely that more than one person will see the same error and the instructors will be available to walk through these issues. If you do not have your own data, please email Ana to talk about getting example datasets that you can use for these workshops!

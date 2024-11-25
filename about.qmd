@@ -2,8 +2,14 @@
 title: "About"
 ---
 
-About this site
+## Meet your instructor
 
-```{r}
-1 + 1
-```
+![](ana.png){width="30%"}
+
+### Dr. Ana Miller-ter Kuile
+
+Ana is an Assistant Research Professor in SICCS. She received her Ph.D. in Ecology from UC Santa Barbara and her B.S. in Earth Systems- Biosphere Track from Stanford University. Her general research interests include modeling and understanding how biological communities are impacted and respond to anthropogenic change, including species introductions and losses, invasive species, habitat change, climate change, and restoration efforts aimed at reversing or directing these changes. Ana has a background in community ecology and combines field, laboratory, and computational approaches in her work. She is also a Software Carpentries instructor and has training and experience with equitable STEM and data science education through an NSF-AGEP Hispanic Serving Institutions Teaching Fellowship and the Environmental Data Science Inclusion Network. 
+
+## About the course
+
+This course builds on materials from the [Carpentries](https://datacarpentry.github.io/R-ecology-lesson/) on Data Analysis and Visualization in R for Ecologists. I have pulled some content from that lesson and built my own content as well.

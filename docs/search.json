@@ -2,15 +2,78 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "NAU_R_Workshop2024",
+    "title": "Introduction to R for Ecologists - NAU 2024",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "December 2024 - April 2025\nInstructor: Dr. Ana Miller-ter Kuile"
+  },
+  {
+    "objectID": "index.html#general-information",
+    "href": "index.html#general-information",
+    "title": "Introduction to R for Ecologists - NAU 2024",
+    "section": "General Information",
+    "text": "General Information\nWho: This course is aimed at undergraduate and graduate students and researchers who work with ecological data.\nWhere: This course will take place during meeting hours for the NAU RaMP training program.\nWhen: This workshop will take place in roughly two sessions per month starting in December 2024 and ending in April 2025.\nRequirements: Participants must have access to a computer with a Mac, Linux, or Windows operating system. In addition, please install the specific software packages listed in the setup tab above.\nAccessibility: We are dedicated to providing a positive and accessible learning environment for all learners. Please email the instructor prior to the workshop if you require any accomodations or if there is anything we can do to help make the workshop accessible to you.\nContact: You can email ana.miller-ter-kuile@nau.edu for more information."
+  },
+  {
+    "objectID": "index.html#code-of-conduct",
+    "href": "index.html#code-of-conduct",
+    "title": "Introduction to R for Ecologists - NAU 2024",
+    "section": "Code of conduct",
+    "text": "Code of conduct\nWe will be abiding by a code of conduct for this workshop based on the code of R-Ladies.\nPlease respect fellow learners, instructors, and helpers."
+  },
+  {
+    "objectID": "index.html#surveys",
+    "href": "index.html#surveys",
+    "title": "Introduction to R for Ecologists - NAU 2024",
+    "section": "Surveys",
+    "text": "Surveys\nPlease be sure to complete these surveys before and after the workshop. It is okay if you know nothing about R as you answer these - introducing you to R is the point of this workshop series!\nPre-workshop survey\nPost-workshop survey available in April"
+  },
+  {
+    "objectID": "index.html#workshop-recordings",
+    "href": "index.html#workshop-recordings",
+    "title": "Introduction to R for Ecologists - NAU 2024",
+    "section": "Workshop Recordings",
+    "text": "Workshop Recordings\nWorkshop recordings will be available after the workshops take place for NAU RaMP scholars."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Ana is an Assistant Research Professor in SICCS. She received her Ph.D. in Ecology from UC Santa Barbara and her B.S. in Earth Systems- Biosphere Track from Stanford University. Her general research interests include modeling and understanding how biological communities are impacted and respond to anthropogenic change, including species introductions and losses, invasive species, habitat change, climate change, and restoration efforts aimed at reversing or directing these changes. Ana has a background in community ecology and combines field, laboratory, and computational approaches in her work. She is also a Software Carpentries instructor and has training and experience with equitable STEM and data science education through an NSF-AGEP Hispanic Serving Institutions Teaching Fellowship and the Environmental Data Science Inclusion Network."
+  },
+  {
+    "objectID": "about.html#meet-your-instructor",
+    "href": "about.html#meet-your-instructor",
+    "title": "About",
+    "section": "",
+    "text": "Ana is an Assistant Research Professor in SICCS. She received her Ph.D. in Ecology from UC Santa Barbara and her B.S. in Earth Systems- Biosphere Track from Stanford University. Her general research interests include modeling and understanding how biological communities are impacted and respond to anthropogenic change, including species introductions and losses, invasive species, habitat change, climate change, and restoration efforts aimed at reversing or directing these changes. Ana has a background in community ecology and combines field, laboratory, and computational approaches in her work. She is also a Software Carpentries instructor and has training and experience with equitable STEM and data science education through an NSF-AGEP Hispanic Serving Institutions Teaching Fellowship and the Environmental Data Science Inclusion Network."
+  },
+  {
+    "objectID": "about.html#about-the-course",
+    "href": "about.html#about-the-course",
+    "title": "About",
+    "section": "About the course",
+    "text": "About the course\nThis course builds on materials from the Carpentries on Data Analysis and Visualization in R for Ecologists. I have pulled some content from that lesson and built my own content as well."
+  },
+  {
+    "objectID": "setup.html",
+    "href": "setup.html",
+    "title": "Setup",
+    "section": "",
+    "text": "Before the workshop, please make sure you have completed the following setup steps:\n\nDownload/Update R and RStudio\nYou will need a current version of R and RStudio for this workshop. You can find instructions for installing or updating these programs here.\nYou are only required to follow the instructions under the Install R and RStudio or Update R and RStudio sections. We will go over the remainder together during workshop #1.\n\n\nBring your own dataset(s) to Workshops 6 & 9\nThese workshops are taking place February 11 and April 15.\nPlease bring one or more datasets you hope to incoroprate into your own research for Workshops 6 & 9. We will be using the tools we’ve learned in importing and cleaning data in R as well as visualizing data in R with datasets you have collected during your RaMP training. Instructors will be available to answer questions and help troubleshoot solutions. We will be working together to try common data import and cleaning steps. This is a great time to troubleshoot errors too because it’s likely that more than one person will see the same error and the instructors will be available to walk through these issues. If you do not have your own data, please email Ana to talk about getting example datasets that you can use for these workshops!"
+  },
+  {
+    "objectID": "learn.html",
+    "href": "learn.html",
+    "title": "Learn More",
+    "section": "",
+    "text": "This is a compilation of R-based resources including community support, using R, data analyses, and visualization!\nR Ladies Global\nAllison Horst’s Courses and Workshops on data management, analysis, and visualization\nData Carpentries lessons\nSoftware Carpentries lessons\nCarpentries Community Lessons\nR-DAVIS\nR 4 Data Science (Hadley Wickham/Garret Grolemund)\nSwirl package\nCU Boulder EarthLab Course Notes\nMore fun with FUNctions! by An Bui\nTidy Tuesday Workshop series by Heili Lowman\nR Graph Gallery\n\nOther R-based Tools\nR can do more than you think! If you want to make publication-ready documents or interactive data-driven websites, you can do these things in R!\nHappy Git with R for collaborating with others and future you\nRMarkdown the Definitive Guide\nMastering Shiny\n\n\nEcological Statistics in R\nStat 545 (Jenny Bryan)\nAllison Horst’s Courses and Workshops on data management, analysis, and visualization\nKyle Edwards’ Advanced Statistics Course Notes\nFukami Lab Statistics Course Notes"
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Tuesdays, 9:30-11:00\nPhysical Sciences 321\n\n1. December 10: Why R?\nIn this workshop, we will walk through an overview of R and why it is so useful for ecologists. During this workshop, the instructors will ensure that everyone has successfully downloaded R and RStudio and completed the setup tasks outlined below.\nPresentation PDF available after workshop\n\n\n2. December 17: Getting Started in R and RStudio\nIn this workshop, we will get oriented to R and RStudio and how they work together. We will also talk about file and folder organization that will generally be helful for project management, but make it much easier to work with R programming on your computer. We will also quickly review why ecologists use R for data analysis.\nLive coding script available after workshop\n\n\n3. January 7: Data Visualization with ggplot2\nIn this workshop, we will learn how to visualize data in R and RStudio using a package called ggplot2\nLive coding script available after workshop\n\n\n4. January 14: Exploring and Understanding Data\nIn this workshop, we will dive a bit deeper into R and learn how R stores data and how different ways that R stores data can help ecologists working with R.\nLive coding script available after workshop\n\n\n5. February 4: Working with Data\nIn this workshop, we will learn how to import data into R and make these data easier to use for analysis and visualization.\nLive coding script available after workshop\n\n\n6. February 11: Working with Data, Part 2\nIn this workshop session, participants will continue to work on importing data into R. Participants may also be working to import their own datasets into R. We will process and visualize data together during the session and instructors will be available to troubleshoot issues with data in R.\nLive coding script available after workshop\n\n\n7. March 18: Introduction to Statistics in R\nIn this workshop, we will learn about how to run statistical tests in R. These will match statistical tests participants will already know how to do in the program JMP from earlier in the RaMP training.\nLive coding script available after workshop\n\n\n8. March 25: Introduction to Statistics in R 2\nIn this workshop, we will continue to learn about how to run statistical tests in R. These will match statistical tests participants will already know how to do in the program JMP from earlier in the RaMP training.\nLive coding script available after workshop\n\n\n9. April 15: Working with Data, Part 3\nIn this workshop session, participants will continue to import their own datasets into R. We will process and visualize data together during the session and instructors will be available to troubleshoot issues with data in R. We will also explore statistical analyses with participant datasets.\nLive coding script available after workshop"
   }
 ]
