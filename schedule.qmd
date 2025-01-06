@@ -10,13 +10,13 @@ Physical Sciences 321
 
 In this workshop, we will walk through an overview of R and why it is so useful for ecologists. During this workshop, the instructors will ensure that everyone has successfully downloaded R and RStudio and completed the setup tasks outlined in the [Setup](https://anamtk.github.io/NAU_R_Workshop2024/setup.html) tab.
 
-[Presentation PDF available after workshop]()
+[Presentation PDF](https://github.com/anamtk/NAU_R_Workshop2024/blob/main/sessions/Why%20R.pdf)
 
 ### 2. December 17: [Getting Started in R and RStudio](https://datacarpentry.github.io/R-ecology-lesson-alternative/introduction-r-rstudio.html)
 
 In this workshop, we will get oriented to R and RStudio and how they work together. We will also talk about file and folder organization that will generally be helful for project management, but make it much easier to work with R programming on your computer. We will also quickly review why ecologists use R for data analysis.
 
-[Live coding script available after workshop]()
+[Live coding script](https://github.com/anamtk/NAU_R_Workshop2024/blob/main/livecoding/01_gettingstarted.R)
 
 ### 3. January 7: [Data Visualization with `ggplot2`](https://datacarpentry.github.io/R-ecology-lesson-alternative/visualizing-ggplot.html)
 
