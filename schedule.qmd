@@ -8,7 +8,7 @@ Physical Sciences 321
 
 ### 1. December 10: Why R?
 
-In this workshop, we will walk through an overview of R and why it is so useful for ecologists. During this workshop, the instructors will ensure that everyone has successfully downloaded R and RStudio and completed the setup tasks outlined [below](#setup).
+In this workshop, we will walk through an overview of R and why it is so useful for ecologists. During this workshop, the instructors will ensure that everyone has successfully downloaded R and RStudio and completed the setup tasks outlined in the [Setup](https://anamtk.github.io/NAU_R_Workshop2024/setup.html) tab.
 
 [Presentation PDF available after workshop]()
 
