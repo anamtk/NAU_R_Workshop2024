@@ -22,13 +22,29 @@ In this workshop, we will get oriented to R and RStudio and how they work togeth
 
 In this workshop, we will learn how to visualize data in R and RStudio using a package called `ggplot2`
 
-[Live coding script available after workshop]()
+[Live coding script](https://github.com/anamtk/NAU_R_Workshop2024/blob/main/livecoding/02_plotsinggplot2.R)
 
 ### 4. January 14: [Exploring and Understanding Data](https://datacarpentry.github.io/R-ecology-lesson-alternative/how-r-thinks-about-data.html)
 
 In this workshop, we will dive a bit deeper into R and learn how R stores data and how different ways that R stores data can help ecologists working with R.
 
 [Live coding script available after workshop]()
+
+::: {.callout-note appearance="minimal"}
+## Try it on your own!
+
+Try making your own plot! You can run `str(complete_old)` or `?complete_old` to explore variables you might use in your new plot. Feel free to use variables we have already seen, or some we haven\'t explored yet.
+
+Here are a couple ideas to get you started:
+
+-   make a histogram of one of the numeric variables
+
+-   try using a different color `scale_`
+
+-   try changing the size of points or thickness of lines in a `geom`
+
+You can explore some plotting option in the [R Graph Gallery](https://r-graph-gallery.com/) or get ideas about types of plots with the [ggplot2 cheat sheet](https://rstudio.github.io/cheatsheets/html/data-visualization.html) (which is also available in RStudio in the `Help` tab on the top of RStudio window).
+:::
 
 ### 5. February 4: [Working with Data](https://datacarpentry.github.io/R-ecology-lesson-alternative/working-with-data.html)
 
