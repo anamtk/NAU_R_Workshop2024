@@ -46,21 +46,33 @@ Here are a couple ideas to get you started:
 You can explore some plotting option in the [R Graph Gallery](https://r-graph-gallery.com/) or get ideas about types of plots with the [ggplot2 cheat sheet](https://rstudio.github.io/cheatsheets/html/data-visualization.html) (which is also available in RStudio in the `Help` tab on the top of RStudio window).
 :::
 
-### 5. February 4: [Exploring and Understanding Data](https://datacarpentry.github.io/R-ecology-lesson-alternative/how-r-thinks-about-data.html) & [Working with Data](https://datacarpentry.github.io/R-ecology-lesson-alternative/working-with-data.html)
+### 5. February 4: [Exploring and Understanding Data](https://datacarpentry.github.io/R-ecology-lesson-alternative/how-r-thinks-about-data.html) 
 
-In this workshop, we will learn how to import data into R and make these data easier to use for analysis and visualization.
+In this workshop, we continued to explore how R understands data.
+
+[Live coding script](https://github.com/anamtk/NAU_R_Workshop2024/blob/main/livecoding/03_exploring_data.R)
+
+### 6. February 11: [Exploring and Understanding Data](https://datacarpentry.github.io/R-ecology-lesson-alternative/how-r-thinks-about-data.html) & [Working with Data, Part 2](https://datacarpentry.github.io/R-ecology-lesson-alternative/working-with-data.html)
+
+In this workshop session, we will continue to explore and understand how R looks at data. We will then work on importing data into R. We will then perform common data exploration and cleaning steps and the final step will be to export a "clean" dataset.
 
 [Live coding script available after workshop]()
 
-### 6. February 11: [Working with Data, Part 2](https://datacarpentry.github.io/R-ecology-lesson-alternative/working-with-data.html)
+::: {.callout-note appearance="minimal"}
+## Try it on your own!
 
-In this workshop session, participants will continue to work on importing data into R. Participants may also be working to import their own datasets into R. We will process and visualize data together during the session and instructors will be available to troubleshoot issues with data in R.
+Using the steps we used to import a dataset in this workshop, try importing one of your own datasets into R. If you don't have your own dataset yet, explore some options at the [Ecological Dataset Wiki](https://ecologicaldata.org/find-data). Explore the data using one or more of the functions we used today (`select`, `filter`, or `mutate`). What did you learn about the data? In a nutshell:
 
-[Live coding script available after workshop]()
+-   use `read_csv` function to import a dataset into R
 
-### 7. March 18: [Introduction to Statistics in R](https://anamtk.github.io/stats_workshop/Introduction_to_Statistics.html)
+-   Explore the dataset with one or more of the functions `select`, `filter`, and `mutate`
 
-In this workshop, we will learn about how to run statistical tests in R. These will match statistical tests participants will already know how to do in the program JMP from earlier in the RaMP training.
+-   What did you learn about the dataset using these functions that can help you understand and work with your data better?
+:::
+
+### 7. March 18: [Exploring and Understanding Data](https://datacarpentry.github.io/R-ecology-lesson-alternative/how-r-thinks-about-data.html)  & [Introduction to Statistics in R](https://anamtk.github.io/stats_workshop/Introduction_to_Statistics.html)
+
+In this workshop, we will continue to explore data in R. We will also learn about how to run statistical tests in R. These will match statistical tests participants will already know how to do in the program JMP from earlier in the RaMP training.
 
 [Live coding script available after workshop]()
 
