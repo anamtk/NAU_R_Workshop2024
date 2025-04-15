@@ -76,16 +76,16 @@ Using the steps we used to import a dataset in this workshop, try importing one 
 
 In this workshop, we will continue to explore data in R. We will also learn about how to run statistical tests in R. These will match statistical tests participants will already know how to do in the program JMP from earlier in the RaMP training.
 
-[Live coding script available after workshop]()
+[Live coding script](https://github.com/anamtk/NAU_R_Workshop2024/blob/main/livecoding/04_working_with_data.R)
 
 ### 8. March 25: [Introduction to Statistics in R 2](https://anamtk.github.io/stats_workshop/Introduction_to_Statistics.html)
 
 In this workshop, we will continue to learn about how to run statistical tests in R. These will match statistical tests participants will already know how to do in the program JMP from earlier in the RaMP training.
 
-[Live coding script available after workshop]()
+[Live coding script](https://github.com/anamtk/NAU_R_Workshop2024/blob/main/livecoding/04_working_with_data.R)
 
 ### 9. April 15: Working with Data, Part 3
 
 In this workshop session, participants will continue to import their own datasets into R. We will process and visualize data together during the session and instructors will be available to troubleshoot issues with data in R. We will also explore statistical analyses with participant datasets.
 
-[Live coding script available after workshop]()
+[Live coding script](https://github.com/anamtk/NAU_R_Workshop2024/blob/main/livecoding/05_work_with_your_data.R)
